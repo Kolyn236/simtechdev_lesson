@@ -520,7 +520,7 @@ $schema = [
                     'href' => 'usergroups.manage',
                     'position' => 800,
                 ],
-                'my_custom_menu' => [
+                'simtechdev_lesson' => [
                     'href' => 'index.index',
                     'position' => 400,
                 ]
